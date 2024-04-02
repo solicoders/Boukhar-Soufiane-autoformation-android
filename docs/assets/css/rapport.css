@@ -230,3 +230,12 @@ h6
 #table-de-matière+ul li a:hover {
     color: #777;
 }
+
+table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+table th,tr,td{
+	border: 1px solid #000;
+}
