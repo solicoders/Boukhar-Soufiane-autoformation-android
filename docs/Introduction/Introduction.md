@@ -13,4 +13,3 @@ order: 1
 
 Apprenez les bases de la programmation et créez votre première application Android.
 
-<!-- new slide -->
