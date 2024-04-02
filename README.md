@@ -1,14 +1,6 @@
-# backlog
 
-- Backend
-- Jeux de test
-- unit-test
-- Front-end
-- Rapport
-- Presentation
+# Références 
 
-## Références 
-
-- [Rapport](https://soufiane-boukhar.github.io/lab-heritage/) 
-- [Presentation](https://soufiane-boukhar.github.io/lab-heritage/presentation.html)
+- [Rapport](https://solicoders.github.io/Boukhar-Soufiane-autoformation-android/) 
+- [Presentation](https://solicoders.github.io/Boukhar-Soufiane-autoformation-android/presentation.html)
 
